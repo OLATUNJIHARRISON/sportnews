@@ -1,0 +1,90 @@
+body{
+		background-image: url(../images/2.png);
+		height: 150vh;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+		.nav-item{
+			padding-right: 8px;
+			margin-right: 10px;
+			color: black;
+			margin-top: 10px;
+		}
+		.nav-item:hover {
+			border-radius: 10px;
+			color: white;
+			height: 30px;
+			font-size: 30px;
+		}
+		.nav-group{
+			list-style-type: none;
+			display: flex;
+			margin-left: auto;
+			margin-right: 20px;
+		}
+		.nav-bar{
+			display: flex;
+			background: red;
+		}
+		h1{
+			color: black;
+		}
+		.mode-1{
+			
+			
+		}
+		.mode-2{
+			width: 40%;
+			background: white;
+			height: 60vh;
+			border-radius: 15px;
+			margin-left: auto;
+			padding-left: 20px;
+		}
+		.home{
+			font-size: 25px;
+		}
+		.away{
+			font-size: 25px;
+		}
+		.face-1{
+			margin-top: 10px;
+			display: flex;
+		}
+		.leagues{
+			margin-top: 10px;
+		}
+		.side-bar{
+			margin-top: 30px;
+			background: red;
+			display: flex;
+			height: 10vh;
+		}
+		.middle-bar{
+			list-style-type: none;
+			text-align: center;
+			margin-left: 130px;
+			font-size: 30px;
+		}
+		.middle-bar:hover {
+			border-radius: 15px;
+			background-color: white;
+		}
+		.news{
+			background: white;
+			font-size: 25px;
+			margin-left: 15px;
+			margin-bottom: 50px;
+			margin-right: auto;
+		}
+		.sacked-pic{
+			height: 45vh;
+			width: 100%;
+			margin-right: 50px;
+			padding-right: 20px;
+			margin-right: 20px;
+		}
+		.search-bar{
+			width: 80%;
+			height: 5vh;
+		}
